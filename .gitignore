@@ -1,4 +1,7 @@
 .swiftpm
 .build/
+temp_auto_push.bat
 Package.resolved 
 .DS_Store
+.gitignore
+branch_structure.json
